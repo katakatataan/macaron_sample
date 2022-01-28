@@ -7,6 +7,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@macaron-app/render": "^0.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
